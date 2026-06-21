@@ -4,4 +4,8 @@ Ingesting more data.
 bug fix.
 I m ingetsing normal data
 
+<<<<<<< HEAD
 Checking rebase conflict
+=======
+Rebase with conflict
+>>>>>>> rebase_conflct

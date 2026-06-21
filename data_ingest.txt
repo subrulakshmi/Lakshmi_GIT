@@ -2,10 +2,7 @@ This is another data ingestion file.
 I will work on this file.
 Ingesting more data.
 bug fix.
+Rebase with conflict
+
 I m ingetsing normal data
 
-<<<<<<< HEAD
-Checking rebase conflict
-=======
-Rebase with conflict
->>>>>>> rebase_conflct
